@@ -9,7 +9,11 @@ E não me lembro das versões que foram usadas pra fucionar esse projeto :)
 
 Links:
 Java: https://www.java.com/pt-br/download/
+
 Java SE Development Kit: https://www.oracle.com/java/technologies/downloads/
+
 NetBeans: https://netbeans.apache.org/front/main/download/
+
 MySQL: https://dev.mysql.com/downloads/installer/
+
 MySQL Workbench: https://dev.mysql.com/downloads/workbench/
