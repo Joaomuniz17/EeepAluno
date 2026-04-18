@@ -2,7 +2,6 @@
 Um Repositorio para guardar a pasta que foi usada como a nota final da disiplina do Bruno (POO)
 
 Detalhes:
-Tem mais um pouco de 2.0 GB de armazenamento.
 
 Precisa do Netbeans, e do Java em si para fucionar :)
 
